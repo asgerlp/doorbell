@@ -9,3 +9,4 @@ slack-sdk==3.1.0
 soco==0.20
 urllib3==1.26.2
 xmltodict==0.12.0
+
