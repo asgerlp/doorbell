@@ -1,0 +1,11 @@
+certifi==2020.12.5
+chardet==3.0.4
+idna==2.10
+pkg-resources==0.0.0
+python-decouple==3.3
+requests==2.25.0
+RPi.GPIO==0.7.0
+slack-sdk==3.1.0
+soco==0.20
+urllib3==1.26.2
+xmltodict==0.12.0
